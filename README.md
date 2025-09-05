@@ -8,7 +8,7 @@
 
 ![License](https://badge.vixware.net/License/Apache-2.0/brightgreen)
 ![Platform](https://badge.vixware.net/Platform/Windows%207%2F8%2F9%2F10%2F11/blue)
-![Python](https://badge.vixware.net/Python/Python-3.6/orange)
+![Python](https://badge.vixware.net/Python/Python-3.6%2B/orange)
 
 ## Özellikler
 
@@ -179,3 +179,4 @@ Sorun yaşadığınızda:
 3. Antivirus'ün engellemediğini kontrol edin
 
 4. Sistem gereksinimlerini karşıladığınızdan emin olun
+
