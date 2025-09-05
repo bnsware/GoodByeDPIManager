@@ -6,9 +6,9 @@
 **🔗 GitHub:** https://github.com/ByNoSoftware  
 **📅 Sürüm:** v2.0 (2024)  
 
-![License](https://img.shields.io/badge/License-BNSWare-blue)
-![Platform](https://img.shields.io/badge/Platform-Windows-blue)
-![Python](https://img.shields.io/badge/Python-3.6%2B-green)
+![License](https://badge.vixware.net/License/Apache-2.0/brightgreen)
+![Platform](https://badge.vixware.net/Platform/Windows%207%2F8%2F9%2F10%2F11/blue)
+![Python](https://badge.vixware.net/Python/Python-3.6/orange)
 
 ## Özellikler
 
@@ -177,4 +177,5 @@ Sorun yaşadığınızda:
 1. Logları kontrol edin
 2. Yönetici yetkisi ile çalıştırdığınızdan emin olun
 3. Antivirus'ün engellemediğini kontrol edin
+
 4. Sistem gereksinimlerini karşıladığınızdan emin olun
