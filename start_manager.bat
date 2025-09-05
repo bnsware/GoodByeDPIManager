@@ -32,7 +32,7 @@ echo.
 echo 🎯 GoodBye DPI Manager başlatılıyor...
 set PYTHONIOENCODING=utf-8
 set PYTHONUTF8=1
-python fix_encoding.py
+python goodbyedpi_manager.py
 
 if %errorlevel% neq 0 (
     echo.

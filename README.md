@@ -1,4 +1,3 @@
-![Arayüz](https://upload.vixware.net/uploads/1757049439_65de424f0889dd96.png "Arayüz")
 # 🎯 GoodBye DPI Manager v2.0
 
 **Modern ve kullanıcı dostu Python tabanlı GoodBye DPI yönetim paneli**
@@ -178,5 +177,4 @@ Sorun yaşadığınızda:
 1. Logları kontrol edin
 2. Yönetici yetkisi ile çalıştırdığınızdan emin olun
 3. Antivirus'ün engellemediğini kontrol edin
-
 4. Sistem gereksinimlerini karşıladığınızdan emin olun
