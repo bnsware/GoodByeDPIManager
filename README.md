@@ -6,9 +6,9 @@
 **🔗 GitHub:** https://github.com/ByNoSoftware  
 **📅 Sürüm:** v2.0 (2024)  
 
-![License](https://badge.vixware.net/License/Apache-2.0/brightgreen)
-![Platform](https://badge.vixware.net/Platform/Windows%207%2F8%2F9%2F10%2F11/blue)
-![Python](https://badge.vixware.net/Python/Python-3.6%2B/orange)
+![License](https://rozet.vixware.net/License/Apache-2.0/yellow?style=premium)
+![Platform](https://rozet.vixware.net/Platform/Windows%207%2F8%2F9%2F10%2F11/blue?style=premium)
+![Language](https://rozet.vixware.net/Language/Python%203.6%2B/orange?style=premium)
 
 ## Özellikler
 
@@ -179,4 +179,5 @@ Sorun yaşadığınızda:
 3. Antivirus'ün engellemediğini kontrol edin
 
 4. Sistem gereksinimlerini karşıladığınızdan emin olun
+
 
