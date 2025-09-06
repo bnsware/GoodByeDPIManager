@@ -47,9 +47,11 @@
 ## Kurulum
 
 ### Gereksinimler
-- Windows 7/8/10/11
-- Python 3.6 veya üzeri
-- Yönetici yetkileri
+![Windows](https://rozet.vixware.net/Windows/7%2F8%2F10%2F11/blue?style=premium)
+
+![Python ](https://rozet.vixware.net/Python%20/3.6%20veya%20%C3%BCzeri/orange?style=premium)
+
+![Başlatma ](https://rozet.vixware.net/Ba%C5%9Flatma%20/Y%C3%B6netici%20yetkileri/teal?style=premium)
 
 ### Hızlı Başlangıç
 1. `start_manager.bat` dosyasını **yönetici olarak** çalıştırın
