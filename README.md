@@ -4,7 +4,7 @@
 
 **👨‍💻 Geliştirici:** BNSWare  
 **🔗 GitHub:** https://github.com/ByNoSoftware  
-**📅 Sürüm:** v2.0 (2024)  
+**📅 Sürüm:** v2.0 (2025)  
 
 ![License](https://rozet.vixware.net/License/Apache-2.0/yellow?style=premium)
 ![Platform](https://rozet.vixware.net/Platform/Windows%207%2F8%2F9%2F10%2F11/blue?style=premium)
@@ -179,5 +179,6 @@ Sorun yaşadığınızda:
 3. Antivirus'ün engellemediğini kontrol edin
 
 4. Sistem gereksinimlerini karşıladığınızdan emin olun
+
 
 
