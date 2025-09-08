@@ -1,10 +1,10 @@
 # 🎯 GoodBye DPI Manager v2.0
 
-![github stars](https://rozet.vixware.net/github/ByNoSoftware/GoodByeDPIManager/stars)
-![github license](https://rozet.vixware.net/github/ByNoSoftware/GoodByeDPIManager/license)
-![github language](https://rozet.vixware.net/github/ByNoSoftware/GoodByeDPIManager/language)
-![github lastcommit](https://rozet.vixware.net/github/ByNoSoftware/GoodByeDPIManager/lastcommit)
-![github forks](https://rozet.vixware.net/github/ByNoSoftware/GoodByeDPIManager/forks)
+![github stars](https://rozet.vixware.net/github/bnsware/GoodByeDPIManager/stars)
+![github license](https://rozet.vixware.net/github/bnsware/GoodByeDPIManager/license)
+![github language](https://rozet.vixware.net/github/bnsware/GoodByeDPIManager/language)
+![github lastcommit](https://rozet.vixware.net/github/bnsware/GoodByeDPIManager/lastcommit)
+![github forks](https://rozet.vixware.net/github/bnsware/GoodByeDPIManager/forks)
 
 **Modern ve kullanıcı dostu Python tabanlı GoodBye DPI yönetim paneli**
 
@@ -187,6 +187,7 @@ Sorun yaşadığınızda:
 3. Antivirus'ün engellemediğini kontrol edin
 
 4. Sistem gereksinimlerini karşıladığınızdan emin olun
+
 
 
 
