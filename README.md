@@ -14,7 +14,7 @@
 
 ![License](https://rozet.vixware.net/License/Apache-2.0/yellow?style=premium)
 ![Platform](https://rozet.vixware.net/Platform/Windows%207%2F8%2F10%2F11/blue?style=premium)
-![Software](https://rozet.vixware.net/Software/Python%203.6%2B/orange?style=premium)
+![Software](https://rozet.vixware.net/icon/python/badge/3.6%2B/blue?style=single)
 
 ## Özellikler
 
