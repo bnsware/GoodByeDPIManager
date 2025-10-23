@@ -1,5 +1,7 @@
 # 🎯 GoodBye DPI Manager v2.0
 
+[![badge](https://rozet.vixware.net/icon/coffee/badge/Buy%20Me%20a%20Coffee/yellow?style=single)](https://www.buymeacoffee.com/bnsware)
+
 ![github stars](https://rozet.vixware.net/github/bnsware/GoodByeDPIManager/stars)
 ![github license](https://rozet.vixware.net/github/bnsware/GoodByeDPIManager/license)
 ![github language](https://rozet.vixware.net/github/bnsware/GoodByeDPIManager/language)
