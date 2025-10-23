@@ -11,7 +11,7 @@
 **Modern ve kullanıcı dostu Python tabanlı GoodBye DPI yönetim paneli**
 
 **👨‍💻 Geliştirici:** BNSWare  
-**🔗 GitHub:** https://github.com/ByNoSoftware  
+**🔗 GitHub:** https://github.com/bnsware  
 **📅 Sürüm:** v2.0 (2025)  
 
 ![License](https://rozet.vixware.net/License/Apache-2.0/yellow?style=premium)
