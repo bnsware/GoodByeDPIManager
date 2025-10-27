@@ -1,6 +1,6 @@
-# 🎯 GoodBye DPI Manager v2.0
-
 <div align="center">
+
+# 🎯 GoodBye DPI Manager v2.0
 
 [![badge](https://rozet.vixware.net/icon/coffee/badge/Buy%20Me%20a%20Coffee/yellow?style=single)](https://www.buymeacoffee.com/bnsware)
 
