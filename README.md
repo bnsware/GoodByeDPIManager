@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🎯 GoodBye DPI Manager v2.0
+![GoodBye DPI Manager UI](ui.svg)
+
+# GoodBye DPI Manager v2.0
 
 [![badge](https://rozet.vixware.net/icon/coffee/badge/Buy%20Me%20a%20Coffee/yellow?style=single)](https://www.buymeacoffee.com/bnsware)
 
@@ -193,6 +195,7 @@ Sorun yaşadığınızda:
 3. Antivirus'ün engellemediğini kontrol edin
 
 4. Sistem gereksinimlerini karşıladığınızdan emin olun
+
 
 
 
