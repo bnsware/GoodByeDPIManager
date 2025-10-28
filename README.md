@@ -1,6 +1,6 @@
 <div align="center">
 
-![GoodBye DPI Manager UI](ui.svg)
+![GoodBye DPI Manager UI](logo.svg)
 
 # GoodBye DPI Manager v2.0
 
@@ -195,6 +195,7 @@ Sorun yaşadığınızda:
 3. Antivirus'ün engellemediğini kontrol edin
 
 4. Sistem gereksinimlerini karşıladığınızdan emin olun
+
 
 
 
