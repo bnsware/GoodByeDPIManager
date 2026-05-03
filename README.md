@@ -194,7 +194,7 @@ Başlangıç → Ana Mod (0)
 ## Proje Yapısı
 
 ```
-goodbyedpi-GUIV4-turkey/
+GoodByeDPIManager/
 ├── gui.py                                          # Ana uygulama (GUI + tüm iş mantığı)
 ├── gui_config.json                                 # Kullanıcı yapılandırması (otomatik oluşturulur)
 ├── ÇALIŞTIR.bat                                    # Hızlı başlatıcı
@@ -392,7 +392,7 @@ Katkılarınızı memnuniyetle karşılarız! İşte katkıda bulunmanın yollar
 
 ```bash
 # Repoyu fork edin ve klonlayın
-git clone https://github.com/KULLANICI_ADINIZ/goodbyedpi-GUIV4-turkey.git
+git clone https://github.com/KULLANICI_ADINIZ/GoodByeDPIManager.git
 
 # Yeni bir branch oluşturun
 git checkout -b ozellik/yeni-ozellik
