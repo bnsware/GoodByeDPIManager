@@ -96,8 +96,8 @@ Komut satırı bilgisi gerektirmeden, tek tıkla engelleri aşmanızı sağlar.
 
 **1.** Repoyu klonlayın:
 ```bash
-git clone https://github.com/bnsware/goodbyedpi-GUIV4-turkey.git
-cd goodbyedpi-GUIV4-turkey
+git clone https://github.com/bnsware/GoodByeDPIManager.git
+cd GoodByeDPIManager
 ```
 
 **2.** Uygulamayı başlatın:
