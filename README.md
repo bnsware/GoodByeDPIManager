@@ -96,8 +96,8 @@ Komut satırı bilgisi gerektirmeden, tek tıkla engelleri aşmanızı sağlar.
 
 **1.** Repoyu klonlayın:
 ```bash
-git clone https://github.com/bnsware/GoodByeDPIManager.git
-cd GoodByeDPIManager
+git clone https://github.com/bnsware/GoodByeDPIManager-TR.git
+cd GoodByeDPIManager-TR
 ```
 
 **2.** Uygulamayı başlatın:
@@ -194,7 +194,7 @@ Başlangıç → Ana Mod (0)
 ## Proje Yapısı
 
 ```
-GoodByeDPIManager/
+GoodByeDPIManager-TR/
 ├── gui.py                                          # Ana uygulama (GUI + tüm iş mantığı)
 ├── gui_config.json                                 # Kullanıcı yapılandırması (otomatik oluşturulur)
 ├── ÇALIŞTIR.bat                                    # Hızlı başlatıcı
@@ -392,7 +392,7 @@ Katkılarınızı memnuniyetle karşılarız! İşte katkıda bulunmanın yollar
 
 ```bash
 # Repoyu fork edin ve klonlayın
-git clone https://github.com/KULLANICI_ADINIZ/GoodByeDPIManager.git
+git clone https://github.com/KULLANICI_ADINIZ/GoodByeDPIManager-TR.git
 
 # Yeni bir branch oluşturun
 git checkout -b ozellik/yeni-ozellik
